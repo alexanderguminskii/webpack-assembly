@@ -1,0 +1,13 @@
+/* here import from folder utils */
+@import './utils/vars.scss';
+@import './utils/mixins.scss';
+@import './utils/fonts.scss';
+@import './utils/reset.scss';
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  line-height: 1.4;
+}
+
+/* here import from folder modules */
